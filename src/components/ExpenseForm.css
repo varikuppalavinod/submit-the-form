@@ -1,0 +1,15 @@
+.card {
+
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    max-width: 500px; 
+    align-items: center;
+    background-color: #5408e2;
+}
+
+.card-content {
+    color: white;
+  }
